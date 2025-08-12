@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+#my-name{
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    font-weight:bold
+
+}
+
+.info-block{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
